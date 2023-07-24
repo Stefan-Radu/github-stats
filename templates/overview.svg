@@ -58,10 +58,7 @@ td {
   color: #c9d1d9;
 }
 
-tr {
-  transform: translateX(-200%);
-  animation: slideIn 2s ease-in-out forwards;
-}
+
 
 .octicon {
   fill: rgb(88, 96, 105);
