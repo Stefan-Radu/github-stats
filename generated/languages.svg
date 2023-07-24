@@ -54,6 +54,7 @@ li {
   margin-right: 2ch;
   align-items: center;
   flex-wrap: nowrap;
+  transform: translateX(-500%);
 }
 
 @keyframes slideIn {
